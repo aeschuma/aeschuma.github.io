@@ -17,3 +17,7 @@ I completed my PhD in [Biostatistics](https://www.biostat.washington.edu/) at th
 My passion is developing and implementing statistical methods to solve pressing issues particularly in global health, as well as other topics relating to improving health and well-being around the world. Within this general scope of work, I have focused on developing statistical modeling frameworks to improve estimation of demographic and health indicators on both local and global scales, and subsequently utilizing this research to increase understanding and ultimately improve lives globally. 
 
 I believe intimate knowledge of the local context is imperative in any globally-focused research endeavor---statistical modeling in particular. I prioritize conducting research that is inclusive of diverse perspectives and populations, as incorporating the lived experiences of those affected by the execution and outcomes of research is imperative to reduce biases and maximize beneficial impacts.
+
+When I'm not working, you can find me hanging out with my dog Jayce, playing volleyball (with the [Seattle Riptide](https://www.instagram.com/riptide_mens_volleyball_club/) of the [Volleyball League of America](https://www.usavla.com/), or at various gyms and beaches in the Pacific Northwest), going to music shows, or casually playing Magic: the Gathering.
+
+<img src="https://aeschuma.github.io/images/jayce-and-austin.jpg" title="jayce and austin" id="id" class="class" width="3088" height="2316" alt="art question mark" />
